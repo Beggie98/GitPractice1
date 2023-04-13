@@ -7,6 +7,8 @@ public class Movie {
     // to continue the movie
     //from 22 minutes
 
-    //This is my awesome stuff from master branch
+    //Added some awesome functionality into the movie class
+    //completed tc100
+
 
 }
