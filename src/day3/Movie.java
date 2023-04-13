@@ -8,6 +8,7 @@ public class Movie {
     //from 22 minutes
 
     //Added some awesome functionality into the movie class
+    //completed tc100
 
 
 }
