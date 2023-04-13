@@ -7,5 +7,6 @@ public class Movie {
     // to continue the movie
     //from 22 minutes
 
+    //This is my awesome stuff from master branch
 
 }
