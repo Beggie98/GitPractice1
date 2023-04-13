@@ -7,6 +7,7 @@ public class ListPractice {
 
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
+        //adding one item
     }
 
 }
